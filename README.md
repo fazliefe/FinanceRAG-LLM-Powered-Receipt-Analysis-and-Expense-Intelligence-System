@@ -587,9 +587,8 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ## 📞 İletişim
 
 Sorularınız veya önerileriniz için:
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🐙 GitHub Issues: [Issues](https://github.com/yourusername/receiptmind-ai/issues)
-- 💬 Discussions: [Discussions](https://github.com/yourusername/receiptmind-ai/discussions)
+- 📧 Email: [onderfazli59@gmail.com]
+
 
 ---
 
