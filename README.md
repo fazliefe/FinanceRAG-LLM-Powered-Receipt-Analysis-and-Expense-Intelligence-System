@@ -1,4 +1,4 @@
-# 🧠 ReceiptMind AI
+# 🧠 FinanceRAG
 
 <div align="center">
 
@@ -569,11 +569,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ---
 
-## 👨‍💻 Geliştirici
 
-**ReceiptMind AI** - Kişisel finans yönetimini yapay zeka ile birleştiren yeni nesil platform.
-
----
 
 ## 🙏 Teşekkürler
 
@@ -599,3 +595,4 @@ Sorularınız veya önerileriniz için:
 Made with ❤️ and 🤖 AI
 
 </div>
+
