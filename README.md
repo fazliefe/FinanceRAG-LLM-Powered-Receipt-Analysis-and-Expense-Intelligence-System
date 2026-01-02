@@ -30,7 +30,7 @@
 
 ## 🎯 Genel Bakış
 
-**ReceiptMind AI**, kişisel harcama yönetimini yapay zeka ile birleştiren yeni nesil bir finansal asistan platformudur. Fişlerinizi otomatik olarak okur, kategorize eder, analiz eder ve doğal dil ile sorularınıza yanıt verir.
+**FinanceRAG**, kişisel harcama yönetimini yapay zeka ile birleştiren yeni nesil bir finansal asistan platformudur. Fişlerinizi otomatik olarak okur, kategorize eder, analiz eder ve doğal dil ile sorularınıza yanıt verir.
 
 ### 🌟 Neden ReceiptMind AI?
 
@@ -284,8 +284,7 @@ Bu komut şunları yapar:
 
 ## 📁 Proje Yapısı
 
-```
-receiptmind-ai/
+```FinanceRAG/
 ├── 📂 data/
 │   ├── inbox/              # Yeni PDF'ler
 │   ├── processed/          # İşlenmiş PDF'ler
@@ -595,4 +594,5 @@ Sorularınız veya önerileriniz için:
 Made with ❤️ and 🤖 AI
 
 </div>
+
 
